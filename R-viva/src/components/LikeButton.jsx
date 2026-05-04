@@ -6,7 +6,7 @@ function LikeButton() {
   return (
     <div>
       <button onClick={() => setLike(!like)}>
-        {like ? "Like-RedHeart" : "Like-WhiteHeart"}
+        {like ? "Liked-❤️" : "Like-🤍"}
       </button>
     </div>
   );

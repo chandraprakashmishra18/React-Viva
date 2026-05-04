@@ -5,8 +5,8 @@ function App() {
   return (
     <>
     <div>
-      {/* <LikeButton /> */}
-      <FetchAPI/>
+      <LikeButton />
+      {/* <FetchAPI/> */}
     </div>
     </>
   );
